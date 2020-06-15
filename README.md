@@ -235,9 +235,9 @@ Key difference.
 
 ## Reference
 
-	[Process vs Thread: What's the difference?](https://www.guru99.com/difference-between-process-and-thread.html#:~:text=Process%20means%20a%20program%20is%20in%20execution%2C%20whereas%20thread,a%20segment%20of%20a%20process.&text=A%20Process%20is%20mostly%20isolated,share%20data%20with%20each%20other.). guru99. Retrieved 9 June 2020.
+[Process vs Thread: What's the difference?](https://www.guru99.com/difference-between-process-and-thread.html#:~:text=Process%20means%20a%20program%20is%20in%20execution%2C%20whereas%20thread,a%20segment%20of%20a%20process.&text=A%20Process%20is%20mostly%20isolated,share%20data%20with%20each%20other.). guru99. Retrieved 9 June 2020.
 
-	[Process (computing)](https://en.wikipedia.org/wiki/Process_(computing)). Wikipedia. Retrieved 12 June 2020.
+[Process (computing)](https://en.wikipedia.org/wiki/Process_(computing)). Wikipedia. Retrieved 12 June 2020.
 
 [Process state](https://en.wikipedia.org/wiki/Process_state). Wikipedia. Retrieved 13 June 2020.
 
